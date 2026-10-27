@@ -32,79 +32,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global Digital Workplace market is estimated between ** billion and  billion in 2025** and is projected to expand to ** billion to + billion by 2026** (growing at a ~15–23% CAGR). The market exhibits a distinct dual structure: **highly concentrated** at the core enterprise platform layer (dominated by mega-caps like Microsoft, ServiceNow, and Salesforce), yet **moderately to highly fragmented** across specialized employee experience (EX), frontline communication, and AI workflow point solutions.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Workday Everywhere](https://www.workday.com/)**
-
-  **Workday self-service embedded in Microsoft Teams and Slack** . Employees can query leave balances, request time off, update personal information, and receive notifications without opening Workday in a browser. Workday plans to deprecate the older Workday Assistant in 2027R2 in favor of the Workday Everywhere self-service agent . **Pricing**: Quote-only; bundled with Workday suite. **Free tier**: None. **Best for**: Workday customers wanting to surface HR self-service directly in employees' collaboration tools.
-
-
-
-- **[Microsoft Viva](https://www.microsoft.com/microsoft-viva)**
-
-  **Employee experience platform** integrated with Microsoft 365 and Teams, covering communications, knowledge, learning, and insights. Viva integrates with HR systems including Workday, SAP SuccessFactors, and ServiceNow . ServiceNow offers native integrations for Viva Connections and Teams to surface HR tasks and services . **Pricing**: Per-user licensing; quote-based for enterprise. **Free tier**: Limited Viva Connections available with certain M365 plans. **Best for**: Microsoft 365 organizations wanting employee experience capabilities natively within Teams and SharePoint.
-
-
-
-- **[ServiceNow Employee Center](https://www.servicenow.com/)**
-
-  **Unified employee portal** that aggregates tasks, approvals, and services from Workday, SuccessFactors, and other enterprise systems into a single "Integrated Action Center" . Native spokes pull to-do items from Workday and SuccessFactors; employees can approve or complete items without leaving ServiceNow . Integrates with Microsoft Teams, Slack, and Viva Connections for in-flow service requests . **Pricing**: Quote-only; bundled with ServiceNow HR Service Delivery. **Free tier**: None. **Best for**: enterprises wanting a single digital front door that orchestrates tasks across multiple backend systems.
-
-
-
-- **[Slack](https://slack.com/)**
-
-  **Channel-based messaging platform** with extensive app integrations for HR, IT, and workplace tools. ServiceNow provides Slack integration for requesting services in the flow of work . Workday Everywhere runs natively in Slack . **Pricing**: **Free** tier with limited message history; **Pro** at $8.75/user/month; **Business+** at $15/user/month; **Enterprise Grid** quote-only. **Free tier**: Yes, with 90-day message history and 10 integrations. **Best for**: teams wanting a flexible collaboration hub with broad third-party app support.
-
-
-
-- **[Simpplr](https://www.simpplr.com/)**
-
-  **AI-powered employee experience platform** with intranet and communications capabilities. Integrates with Workday for user syncing (matching by email, requires employee number) alongside Azure, Okta, and Google . **Pricing**: Quote-only; per-user models. **Free tier**: None. **Best for**: organizations wanting a modern intranet with strong HRIS sync and AI-powered content personalization.
-
-
-
-- **[Workvivo](https://www.workvivo.com/)** (Zoom)
-
-  **Employee communication and engagement platform** with social intranet features. Integrates with Slack, Workday, Microsoft Teams, Salesforce, and Google Drive . **Pricing**: Quote-only. **Free tier**: None. **Best for**: organizations wanting a social, engagement-focused intranet with broad integration support.
-
-
-
-- **[LumApps](https://www.lumapps.com/)**
-
-  **Employee experience platform** with 100+ third-party integrations. Connects Workday, SAP SuccessFactors, ServiceNow, Microsoft Teams, Slack, and Google Chat into a unified hub . Supports HR and time-off requests directly from the dashboard, plus AI-powered search across connected systems . **Pricing**: Quote-only. **Free tier**: None. **Best for**: enterprises wanting a centralized hub that surfaces actions from multiple business systems.
-
-
-
-- **[Staffbase](https://staffbase.com/)**
-
-  **Employee communications and intranet platform** with deep Microsoft 365, Workday, and ServiceNow integrations. Connects at the platform level to M365, enabling frontline workers on personal devices to access SharePoint content and Workday payslips without individual M365 licenses . Workday integration covers profile sync, org hierarchy, and direct service access (payslips, time-off requests) . ServiceNow integration enables ticket creation and status checks from within the intranet . **Pricing**: Quote-only. **Free tier**: None. **Best for**: large, distributed enterprises with mixed desk and frontline workforces needing governed access to multiple systems.
-
-
-
-- **[Firstup](https://firstup.io/)**
-
-  **Workforce communications platform** for targeted multi-channel messaging to distributed and frontline employees. Integrates with Microsoft, Workday, and ServiceNow . **Pricing**: Quote-only. **Free tier**: None. **Best for**: organizations prioritizing personalized communications delivery across mobile, email, and digital signage.
-
-
-
-- **[Moveworks](https://www.moveworks.com/)** (ServiceNow)
-
-  **AI-powered employee support platform** with native integrations for ServiceNow, Workday, and Slack . Following ServiceNow's acquisition, the **Moveworks for Employee Center** plugin replaces the standard Virtual Agent with Moveworks' conversational AI, creating a unified support experience across enterprise systems . **Pricing**: Quote-only; requires licensing for both Moveworks and ServiceNow Employee Center . **Free tier**: None. **Best for**: ServiceNow customers wanting AI-driven conversational support that spans IT, HR, and other enterprise systems.
-
-
+| Platform | Company Valuation / Revenue | Starting Pricing | Free Tier / Trial Limits | Description & Best For |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft Viva](https://www.microsoft.com/microsoft-viva)** | **~.9 Trillion** Market Cap (Microsoft) | **.00 / user / month** (standalone modules like Employee Communications & Communities); full Viva Suite at **.00 / user / month** (annual commitment) | **30-day free trial** capped at **25 user licenses** for full suite evaluation; baseline Viva Connections included at no additional cost with eligible M365 Business/Enterprise plans | **Employee experience platform** integrated with Microsoft 365 and Teams covering communications, knowledge, and insights. Connects with Workday, SAP SuccessFactors, and ServiceNow. **Best for**: Microsoft 365 enterprises wanting native Teams and SharePoint EX. |
+| **[Slack](https://slack.com/)** | **~ Billion** Market Cap (Salesforce; Slack ARR ~.5B–.0B) | **.75 / user / month** (Pro tier, billed monthly; .25 billed annually); Business+ at **.00 / user / month** | **Free-for-ever plan** with limits: **90-day message history**, up to **10 app integrations**, 1:1 audio/video huddles, and 5GB total workspace file storage (no credit card required) | **Channel-based messaging platform** with extensive app integrations for HR, IT, and workplace tools. Workday Everywhere and ServiceNow run natively inside Slack. **Best for**: Teams wanting a flexible collaboration hub with rich bot/app ecosystems. |
+| **[ServiceNow Employee Center](https://www.servicenow.com/)** | **~ Billion** Market Cap (ServiceNow) | **~.00 / fulfiller user / month** (HRSD Foundation agent tier; requester employee portal access is typically bundled enterprise-wide) | **No public free tier or commercial free trial** (30-day enterprise evaluation sandboxes require sales engagement; permanent free Personal Developer Instances / PDIs available with inactivity hibernation for developer sandbox testing) | **Unified employee portal** that aggregates tasks, approvals, and services from Workday, SuccessFactors, and other enterprise backends into a single Integrated Action Center. Integrates with Teams, Slack, and Viva. **Best for**: Enterprises wanting a single digital front door across multi-system IT/HR backends. |
+| **[Workday Everywhere](https://www.workday.com/)** | **~ Billion** Market Cap (Workday) | **~.00 – .00 / employee / month** (PEPM subscription model; typical enterprise contracts start at ~,000/year minimum) | **No free tier or free trial** for Workday HCM/Everywhere (guided interactive demos only; Workday Adaptive Planning offers a separate 30-day modeling free trial) | **Workday self-service embedded in Microsoft Teams and Slack**. Employees query leave balances, submit PTO requests, and update info directly in chat channels. **Best for**: Workday customers surfacing HR self-service in chat without separate portal logins. |
+| **[Workvivo](https://www.workvivo.com/)** (Zoom) | **~ Billion** Market Cap (Zoom) | **~,000 / year** starting contract minimum (~.00 – .00 / user / month effective tier depending on headcount volume) | **No free tier or self-service free trial** (custom guided 1:1 live platform demo and proof-of-concept upon sales qualification) | **Employee communication and engagement platform** with social intranet and recognition features (acquired by Zoom). Integrates with Slack, Workday, Teams, and Google Drive. **Best for**: Organizations prioritizing employee engagement and social intranet feeds. |
+| **[Moveworks](https://www.moveworks.com/)** (ServiceNow) | **.85 Billion** Valuation (Acquired by ServiceNow; > ARR) | **~.00 – .00 / employee / year** (~.25 – .75 / employee / month, licensed across total company headcount; minimum contract typically starts at ~,000/year) | **No free tier or self-serve free trial** (evaluated exclusively via sales-led enterprise value assessment, pilot sandboxes, and guided technical POCs) | **Conversational AI employee support platform** unifying IT, HR, and facilities assistance natively across ServiceNow Employee Center, Slack, Teams, and Workday. **Best for**: ServiceNow and enterprise clients needing automated multilingual resolve-in-chat AI support. |
+| **[Staffbase](https://staffbase.com/)** | **.1 Billion** Valuation (~ ARR) | **~.00 – .50 / user / month** (frontline-only employee packs start at lower tiered rates; minimum annual contracts apply) | **No free tier or public self-serve free trial** (custom sales-guided enterprise demo and tailored sandbox proof-of-concept upon request) | **Employee communications and mobile-first intranet platform** with deep Microsoft 365, Workday, and ServiceNow integrations, serving both desk-based and deskless frontline staff. **Best for**: Distributed enterprises with mixed corporate and frontline workforces. |
+| **[LumApps](https://www.lumapps.com/)** | ** Million** Valuation (Acquired by Bridgepoint; > combined ARR) | **~.00 – .00 / user / month** (tiered by company size, typically targeting 1,000+ seats on annual enterprise agreements) | **No free tier or public free trial** (custom product demonstrations and tailored sandbox pilots via sales team) | **Employee experience platform** with 100+ native connectors (Workday, SuccessFactors, ServiceNow, Slack, Teams, Google Workspace) and AI enterprise search. **Best for**: Global enterprises needing a multilingual, multi-system personalized hub. |
+| **[Simpplr](https://www.simpplr.com/)** | **~ Million** Valuation (Private; Series D) | **~£4.00 (~.20) – .00 / user / month** (plus onboarding services, tiered for organizations with 500+ users) | **14-day free trial** available upon request through sales/demo qualification; no permanent free plan | **AI-powered modern intranet and EX platform** with automated content personalization and deep Workday, Okta, and Google directory synchronization. **Best for**: Mid-to-large organizations seeking an AI-driven, easy-to-manage intranet with automated governance. |
+| **[Firstup](https://firstup.io/)** | **~ Million** Valuation (Private; > ARR) | **~.00 – .00 / user / year** (~.00 – .70 / user / month, quote-based enterprise contract tied to workforce scale) | **No free tier or self-service free trial** (requires direct sales discovery, live demonstration, and tailored enterprise pilot) | **Workforce communications platform** built for targeted, multi-channel messaging orchestration across mobile, email, web, and digital signage. **Best for**: Large enterprises communicating with hard-to-reach frontline and distributed teams. |
 
 ## Open-Source GitHub Projects
 
