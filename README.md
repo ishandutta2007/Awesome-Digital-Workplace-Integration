@@ -64,7 +64,7 @@ The table below catalogs premier commercial digital workplace solutions sorted b
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore the top self-hosted open-source software for team communication, digital intranet, knowledge bases, and workplace workflow integration. Repositories are equipped with live stargazer badges linking to their stargazers page and sorted in **descending order by GitHub star count**.
+Explore the top self-hosted open-source software for team communication, digital intranet, knowledge bases, and workplace workflow integration. Repositories are equipped with live stargazer badges linking to their stargazers page and sorted in **descending order by GitHub Stars_Count**.
 
 - **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** [![Rocket.Chat Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers)
   - 📋 **Description**: An enterprise-grade, open-source communications platform (MIT License) that offers secure team messaging, omnichannel customer service, video conferencing, Matrix federation, and customizable workflow apps.
@@ -172,7 +172,7 @@ Contributions are warmly welcomed! Help make this the most complete, factual, an
 3. 📝 **Add or edit entries** in `README.md`:
    - Follow the established formatting conventions (include name, repo/product URL, licenses, pricing, and key capabilities).
    - Ensure open-source entries include the correct shield stargazer badge linking to stargazers.
-   - Maintain sorting order (descending by star count for OSS, descending by valuation for SaaS).
+   - Maintain sorting order (descending by Stars_Count for OSS, descending by valuation for SaaS).
 4. 🚀 **Commit your changes** with clear, descriptive commit messages.
 5. 🔀 **Open a Pull Request** explaining your addition or revision.
 
